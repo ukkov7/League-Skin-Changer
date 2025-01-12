@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (league_skin_changer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  autoupdater.cpp
+C:\Users\axeld\Documents\LeagueSkinChanger-original\LeagueSkinChanger-master\league_skin_changer\autoupdater.cpp(114,25): warning C4101: 'e': unreferenced local variable
+C:\Users\axeld\Documents\LeagueSkinChanger-original\LeagueSkinChanger-master\league_skin_changer\autoupdater.cpp(399,25): warning C4101: 'e': unreferenced local variable
+  Generating code
+  23 of 628 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  league_skin_changer.vcxproj -> C:\Users\axeld\Documents\LeagueSkinChanger-original\LeagueSkinChanger-master\Release\skin_changer2.dll
